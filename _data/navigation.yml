@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "home"
-     url: https://seongmookdev.github.io
+    url: https://seongmookdev.github.io/
+
   - title: "about me"
-     url: /about/
+    url: /about/

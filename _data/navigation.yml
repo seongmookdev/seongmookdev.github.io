@@ -2,9 +2,5 @@
 main:
   - title: "home"
      url: https://seongmookdev.github.io
-  - title: "projects"
-     url: /projects/
-  - title: "tag"
-     url: /tag/
   - title: "about me"
      url: /about/

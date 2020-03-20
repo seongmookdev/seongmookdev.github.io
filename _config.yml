@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Seongmook Lim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Seongmook Lim"
+name                     : ""
 description              : ""
 url                      : "https://seongmookdev.github.io"# the base hostname & protocol for your site e.g. "https://seongmookdev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

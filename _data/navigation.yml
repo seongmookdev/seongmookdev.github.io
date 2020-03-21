@@ -2,7 +2,7 @@
 main:
   - title: "home"
     url: https://seongmookdev.github.io/
-  - title: "Categories"
+  - title: "categories"
     url: /categories/
   - title: "about me"
     url: /about/

@@ -2,10 +2,8 @@
 title: "github.io 블로그 시작하기"
 excerpt: "드디어!!!!!!! 시작했다"
 
-categories:
-  - Blog
-tags:
-  - Blog
+categories: Blog
+tags: Blog
 last_modified_at: 2020-03-21
 ---
 

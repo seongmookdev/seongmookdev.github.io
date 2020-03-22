@@ -1,7 +1,7 @@
 ---
 title: "Connected Car"
-permalink: /categories/connectedcar/
+permalink: /categories/ConnectedCar/
 layout: category
 author_profile: true
-taxonomy: connectedcar
+taxonomy: ConnectedCar
 ---

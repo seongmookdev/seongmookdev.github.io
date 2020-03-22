@@ -10,15 +10,12 @@ layout: single
 
 - #### LG Electronics, Junior Engineer(2010.01 ~ 2015.06.)
 
-  
 
 ## - Personal Projects
 
-- #### 
+- #### #### 
 
-- #### 
-
-  
+- #### #### 
 
 ## - Skills
 
